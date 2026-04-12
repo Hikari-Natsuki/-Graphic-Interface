@@ -1,0 +1,13 @@
+C:\Users\migpl\source\repos\NominaDonChucho\NominaDonChucho\bin\Debug\NominaDonChucho.exe.config
+C:\Users\migpl\source\repos\NominaDonChucho\NominaDonChucho\bin\Debug\NominaDonChucho.exe
+C:\Users\migpl\source\repos\NominaDonChucho\NominaDonChucho\bin\Debug\NominaDonChucho.pdb
+C:\Users\migpl\source\repos\NominaDonChucho\NominaDonChucho\obj\Debug\NominaDonChucho.csproj.AssemblyReference.cache
+C:\Users\migpl\source\repos\NominaDonChucho\NominaDonChucho\obj\Debug\NominaDonChucho.Form1.resources
+C:\Users\migpl\source\repos\NominaDonChucho\NominaDonChucho\obj\Debug\NominaDonChucho.Properties.Resources.resources
+C:\Users\migpl\source\repos\NominaDonChucho\NominaDonChucho\obj\Debug\NominaDonChucho.csproj.GenerateResource.cache
+C:\Users\migpl\source\repos\NominaDonChucho\NominaDonChucho\obj\Debug\NominaDonChucho.csproj.CoreCompileInputs.cache
+C:\Users\migpl\source\repos\NominaDonChucho\NominaDonChucho\obj\Debug\NominaDonChucho.exe
+C:\Users\migpl\source\repos\NominaDonChucho\NominaDonChucho\obj\Debug\NominaDonChucho.pdb
+C:\Users\migpl\source\repos\NominaDonChucho\NominaDonChucho\obj\Debug\NominaDonChucho.exe.config
+C:\Users\migpl\source\repos\NominaDonChucho\NominaDonChucho\obj\Debug\NominaDonChucho.ControlesUsuarios.UC_Empleado.resources
+C:\Users\migpl\source\repos\NominaDonChucho\NominaDonChucho\obj\Debug\NominaDonChucho.ControlesUsuarios.UC_Nomina.resources

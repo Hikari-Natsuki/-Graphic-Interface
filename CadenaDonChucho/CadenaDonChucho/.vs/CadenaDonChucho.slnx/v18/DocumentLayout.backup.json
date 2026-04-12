@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\CadenaDonChucho\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{400282E1-E779-4D26-855E-2D0158155BAA}|CadenaDonChucho\\CadenaDonChucho.csproj|c:\\users\\usuario\\source\\repos\\cadenadonchucho\\cadenadonchucho\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400282E1-E779-4D26-855E-2D0158155BAA}|CadenaDonChucho\\CadenaDonChucho.csproj|solutionrelative:cadenadonchucho\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400282E1-E779-4D26-855E-2D0158155BAA}|CadenaDonChucho\\CadenaDonChucho.csproj|c:\\users\\usuario\\source\\repos\\cadenadonchucho\\cadenadonchucho\\servicio\\clienteservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400282E1-E779-4D26-855E-2D0158155BAA}|CadenaDonChucho\\CadenaDonChucho.csproj|solutionrelative:cadenadonchucho\\servicio\\clienteservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400282E1-E779-4D26-855E-2D0158155BAA}|CadenaDonChucho\\CadenaDonChucho.csproj|c:\\users\\usuario\\source\\repos\\cadenadonchucho\\cadenadonchucho\\modelo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400282E1-E779-4D26-855E-2D0158155BAA}|CadenaDonChucho\\CadenaDonChucho.csproj|solutionrelative:cadenadonchucho\\modelo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400282E1-E779-4D26-855E-2D0158155BAA}|CadenaDonChucho\\CadenaDonChucho.csproj|c:\\users\\usuario\\source\\repos\\cadenadonchucho\\cadenadonchucho\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{400282E1-E779-4D26-855E-2D0158155BAA}|CadenaDonChucho\\CadenaDonChucho.csproj|solutionrelative:cadenadonchucho\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400282E1-E779-4D26-855E-2D0158155BAA}|CadenaDonChucho\\CadenaDonChucho.csproj|c:\\users\\usuario\\source\\repos\\cadenadonchucho\\cadenadonchucho\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400282E1-E779-4D26-855E-2D0158155BAA}|CadenaDonChucho\\CadenaDonChucho.csproj|solutionrelative:cadenadonchucho\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400282E1-E779-4D26-855E-2D0158155BAA}|CadenaDonChucho\\CadenaDonChucho.csproj|c:\\users\\usuario\\source\\repos\\cadenadonchucho\\cadenadonchucho\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{400282E1-E779-4D26-855E-2D0158155BAA}|CadenaDonChucho\\CadenaDonChucho.csproj|solutionrelative:cadenadonchucho\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400282E1-E779-4D26-855E-2D0158155BAA}|CadenaDonChucho\\CadenaDonChucho.csproj|c:\\users\\usuario\\source\\repos\\cadenadonchucho\\cadenadonchucho\\modelo\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400282E1-E779-4D26-855E-2D0158155BAA}|CadenaDonChucho\\CadenaDonChucho.csproj|solutionrelative:cadenadonchucho\\modelo\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400282E1-E779-4D26-855E-2D0158155BAA}|CadenaDonChucho\\CadenaDonChucho.csproj|c:\\users\\usuario\\source\\repos\\cadenadonchucho\\cadenadonchucho\\modelo\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400282E1-E779-4D26-855E-2D0158155BAA}|CadenaDonChucho\\CadenaDonChucho.csproj|solutionrelative:cadenadonchucho\\modelo\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400282E1-E779-4D26-855E-2D0158155BAA}|CadenaDonChucho\\CadenaDonChucho.csproj|c:\\users\\usuario\\source\\repos\\cadenadonchucho\\cadenadonchucho\\frmregistrarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{400282E1-E779-4D26-855E-2D0158155BAA}|CadenaDonChucho\\CadenaDonChucho.csproj|solutionrelative:cadenadonchucho\\frmregistrarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\CadenaDonChucho\\CadenaDonChucho\\Servicio\\ClienteServicio.cs",
+              "RelativeDocumentMoniker": "CadenaDonChucho\\Servicio\\ClienteServicio.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\CadenaDonChucho\\CadenaDonChucho\\Servicio\\ClienteServicio.cs",
+              "RelativeToolTip": "CadenaDonChucho\\Servicio\\ClienteServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T20:23:10.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmRegistrarProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\CadenaDonChucho\\CadenaDonChucho\\frmRegistrarProducto.cs",
+              "RelativeDocumentMoniker": "CadenaDonChucho\\frmRegistrarProducto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\CadenaDonChucho\\CadenaDonChucho\\frmRegistrarProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CadenaDonChucho\\frmRegistrarProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T20:12:19.481Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\CadenaDonChucho\\CadenaDonChucho\\Modelo\\Venta.cs",
+              "RelativeDocumentMoniker": "CadenaDonChucho\\Modelo\\Venta.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\CadenaDonChucho\\CadenaDonChucho\\Modelo\\Venta.cs",
+              "RelativeToolTip": "CadenaDonChucho\\Modelo\\Venta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T19:44:03.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\CadenaDonChucho\\CadenaDonChucho\\Modelo\\Producto.cs",
+              "RelativeDocumentMoniker": "CadenaDonChucho\\Modelo\\Producto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\CadenaDonChucho\\CadenaDonChucho\\Modelo\\Producto.cs",
+              "RelativeToolTip": "CadenaDonChucho\\Modelo\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T19:42:33.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\CadenaDonChucho\\CadenaDonChucho\\Modelo\\Cliente.cs",
+              "RelativeDocumentMoniker": "CadenaDonChucho\\Modelo\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\CadenaDonChucho\\CadenaDonChucho\\Modelo\\Cliente.cs",
+              "RelativeToolTip": "CadenaDonChucho\\Modelo\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T19:41:17.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmClientes.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\CadenaDonChucho\\CadenaDonChucho\\frmClientes.cs",
+              "RelativeDocumentMoniker": "CadenaDonChucho\\frmClientes.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\CadenaDonChucho\\CadenaDonChucho\\frmClientes.cs",
+              "RelativeToolTip": "CadenaDonChucho\\frmClientes.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAhwCUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T19:38:24.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmClientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\CadenaDonChucho\\CadenaDonChucho\\frmClientes.cs",
+              "RelativeDocumentMoniker": "CadenaDonChucho\\frmClientes.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\CadenaDonChucho\\CadenaDonChucho\\frmClientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CadenaDonChucho\\frmClientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T19:33:15.971Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\CadenaDonChucho\\CadenaDonChucho\\Form1.cs",
+              "RelativeDocumentMoniker": "CadenaDonChucho\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\CadenaDonChucho\\CadenaDonChucho\\Form1.cs",
+              "RelativeToolTip": "CadenaDonChucho\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T19:29:37.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\CadenaDonChucho\\CadenaDonChucho\\Form1.cs",
+              "RelativeDocumentMoniker": "CadenaDonChucho\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\CadenaDonChucho\\CadenaDonChucho\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CadenaDonChucho\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T19:25:35.227Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
