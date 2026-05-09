@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\GimasioMDI\\GimasioMDI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD0F78B-F179-454F-99C2-8C4A24F7DAF3}|GimasioMDI\\GimasioMDI.csproj|c:\\users\\migpl\\downloads\\pascual bravo\\semestre iv\\herramientas de programaci\u00F3n ii\\interfaz gr\u00E1fica\\gimasiomdi\\gimasiomdi\\gimasiomdi\\repositorio\\clienterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD0F78B-F179-454F-99C2-8C4A24F7DAF3}|GimasioMDI\\GimasioMDI.csproj|solutionrelative:gimasiomdi\\repositorio\\clienterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD0F78B-F179-454F-99C2-8C4A24F7DAF3}|GimasioMDI\\GimasioMDI.csproj|c:\\users\\migpl\\downloads\\pascual bravo\\semestre iv\\herramientas de programaci\u00F3n ii\\interfaz gr\u00E1fica\\gimasiomdi\\gimasiomdi\\gimasiomdi\\clientemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD0F78B-F179-454F-99C2-8C4A24F7DAF3}|GimasioMDI\\GimasioMDI.csproj|solutionrelative:gimasiomdi\\clientemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD0F78B-F179-454F-99C2-8C4A24F7DAF3}|GimasioMDI\\GimasioMDI.csproj|c:\\users\\migpl\\downloads\\pascual bravo\\semestre iv\\herramientas de programaci\u00F3n ii\\interfaz gr\u00E1fica\\gimasiomdi\\gimasiomdi\\gimasiomdi\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BDD0F78B-F179-454F-99C2-8C4A24F7DAF3}|GimasioMDI\\GimasioMDI.csproj|solutionrelative:gimasiomdi\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD0F78B-F179-454F-99C2-8C4A24F7DAF3}|GimasioMDI\\GimasioMDI.csproj|c:\\users\\migpl\\downloads\\pascual bravo\\semestre iv\\herramientas de programaci\u00F3n ii\\interfaz gr\u00E1fica\\gimasiomdi\\gimasiomdi\\gimasiomdi\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BDD0F78B-F179-454F-99C2-8C4A24F7DAF3}|GimasioMDI\\GimasioMDI.csproj|solutionrelative:gimasiomdi\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD0F78B-F179-454F-99C2-8C4A24F7DAF3}|GimasioMDI\\GimasioMDI.csproj|c:\\users\\migpl\\downloads\\pascual bravo\\semestre iv\\herramientas de programaci\u00F3n ii\\interfaz gr\u00E1fica\\gimasiomdi\\gimasiomdi\\gimasiomdi\\frmservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BDD0F78B-F179-454F-99C2-8C4A24F7DAF3}|GimasioMDI\\GimasioMDI.csproj|solutionrelative:gimasiomdi\\frmservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD0F78B-F179-454F-99C2-8C4A24F7DAF3}|GimasioMDI\\GimasioMDI.csproj|c:\\users\\migpl\\downloads\\pascual bravo\\semestre iv\\herramientas de programaci\u00F3n ii\\interfaz gr\u00E1fica\\gimasiomdi\\gimasiomdi\\gimasiomdi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BDD0F78B-F179-454F-99C2-8C4A24F7DAF3}|GimasioMDI\\GimasioMDI.csproj|solutionrelative:gimasiomdi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteModel.cs",
+              "DocumentMoniker": "C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\GimasioMDI\\GimasioMDI\\GimasioMDI\\ClienteModel.cs",
+              "RelativeDocumentMoniker": "GimasioMDI\\ClienteModel.cs",
+              "ToolTip": "C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\GimasioMDI\\GimasioMDI\\GimasioMDI\\ClienteModel.cs",
+              "RelativeToolTip": "GimasioMDI\\ClienteModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T19:31:12.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\GimasioMDI\\GimasioMDI\\GimasioMDI\\Repositorio\\ClienteRepositorio.cs",
+              "RelativeDocumentMoniker": "GimasioMDI\\Repositorio\\ClienteRepositorio.cs",
+              "ToolTip": "C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\GimasioMDI\\GimasioMDI\\GimasioMDI\\Repositorio\\ClienteRepositorio.cs",
+              "RelativeToolTip": "GimasioMDI\\Repositorio\\ClienteRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T19:28:10.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\GimasioMDI\\GimasioMDI\\GimasioMDI\\App.config",
+              "RelativeDocumentMoniker": "GimasioMDI\\App.config",
+              "ToolTip": "C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\GimasioMDI\\GimasioMDI\\GimasioMDI\\App.config",
+              "RelativeToolTip": "GimasioMDI\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-04-29T19:17:20.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\GimasioMDI\\GimasioMDI\\GimasioMDI\\Form1.cs",
+              "RelativeDocumentMoniker": "GimasioMDI\\Form1.cs",
+              "ToolTip": "C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\GimasioMDI\\GimasioMDI\\GimasioMDI\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GimasioMDI\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T19:15:17.359Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmClientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\GimasioMDI\\GimasioMDI\\GimasioMDI\\frmClientes.cs",
+              "RelativeDocumentMoniker": "GimasioMDI\\frmClientes.cs",
+              "ToolTip": "C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\GimasioMDI\\GimasioMDI\\GimasioMDI\\frmClientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GimasioMDI\\frmClientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T19:15:14.726Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmServicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\GimasioMDI\\GimasioMDI\\GimasioMDI\\frmServicio.cs",
+              "RelativeDocumentMoniker": "GimasioMDI\\frmServicio.cs",
+              "ToolTip": "C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\GimasioMDI\\GimasioMDI\\GimasioMDI\\frmServicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GimasioMDI\\frmServicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T19:15:13.703Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

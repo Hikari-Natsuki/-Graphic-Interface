@@ -1,0 +1,14 @@
+C:\Users\migpl\Downloads\PASCUAL BRAVO\Semestre IV\Herramientas de programación II\Tarea-HERRAMIENTAS2\ServiPlus\ServiPlus\ServiPlus\bin\Debug\ServiPlus.exe.config
+C:\Users\migpl\Downloads\PASCUAL BRAVO\Semestre IV\Herramientas de programación II\Tarea-HERRAMIENTAS2\ServiPlus\ServiPlus\ServiPlus\bin\Debug\ServiPlus.exe
+C:\Users\migpl\Downloads\PASCUAL BRAVO\Semestre IV\Herramientas de programación II\Tarea-HERRAMIENTAS2\ServiPlus\ServiPlus\ServiPlus\bin\Debug\ServiPlus.pdb
+C:\Users\migpl\Downloads\PASCUAL BRAVO\Semestre IV\Herramientas de programación II\Tarea-HERRAMIENTAS2\ServiPlus\ServiPlus\ServiPlus\obj\Debug\ServiPlus.csproj.AssemblyReference.cache
+C:\Users\migpl\Downloads\PASCUAL BRAVO\Semestre IV\Herramientas de programación II\Tarea-HERRAMIENTAS2\ServiPlus\ServiPlus\ServiPlus\obj\Debug\ServiPlus.ControlesUsuarios.UC_Adquisiciones.resources
+C:\Users\migpl\Downloads\PASCUAL BRAVO\Semestre IV\Herramientas de programación II\Tarea-HERRAMIENTAS2\ServiPlus\ServiPlus\ServiPlus\obj\Debug\ServiPlus.ControlesUsuarios.UC_Clientes.resources
+C:\Users\migpl\Downloads\PASCUAL BRAVO\Semestre IV\Herramientas de programación II\Tarea-HERRAMIENTAS2\ServiPlus\ServiPlus\ServiPlus\obj\Debug\ServiPlus.ControlesUsuarios.UC_Servicios.resources
+C:\Users\migpl\Downloads\PASCUAL BRAVO\Semestre IV\Herramientas de programación II\Tarea-HERRAMIENTAS2\ServiPlus\ServiPlus\ServiPlus\obj\Debug\ServiPlus.Form1.resources
+C:\Users\migpl\Downloads\PASCUAL BRAVO\Semestre IV\Herramientas de programación II\Tarea-HERRAMIENTAS2\ServiPlus\ServiPlus\ServiPlus\obj\Debug\ServiPlus.Properties.Resources.resources
+C:\Users\migpl\Downloads\PASCUAL BRAVO\Semestre IV\Herramientas de programación II\Tarea-HERRAMIENTAS2\ServiPlus\ServiPlus\ServiPlus\obj\Debug\ServiPlus.csproj.GenerateResource.cache
+C:\Users\migpl\Downloads\PASCUAL BRAVO\Semestre IV\Herramientas de programación II\Tarea-HERRAMIENTAS2\ServiPlus\ServiPlus\ServiPlus\obj\Debug\ServiPlus.csproj.CoreCompileInputs.cache
+C:\Users\migpl\Downloads\PASCUAL BRAVO\Semestre IV\Herramientas de programación II\Tarea-HERRAMIENTAS2\ServiPlus\ServiPlus\ServiPlus\obj\Debug\ServiPlus.exe
+C:\Users\migpl\Downloads\PASCUAL BRAVO\Semestre IV\Herramientas de programación II\Tarea-HERRAMIENTAS2\ServiPlus\ServiPlus\ServiPlus\obj\Debug\ServiPlus.pdb
+C:\Users\migpl\Downloads\PASCUAL BRAVO\Semestre IV\Herramientas de programación II\Tarea-HERRAMIENTAS2\ServiPlus\ServiPlus\ServiPlus\obj\Debug\ServiPlus.exe.config
