@@ -10,13 +10,13 @@ using System.Windows.Forms;
 
 namespace GimasioMDI.Repositorio
 {
-    public class ClienteRepositorio
+    public class ClienteRepository
     {
         //Cadena de conexión a la base de datos, obtenida del archivo de configuración App.config
         private string connection = ConfigurationManager.ConnectionStrings["dbConnection"].ConnectionString;
  
         // Insertar Clientes;
-        public void InsertarCliente(ClienteModel cliente)
+        public void InsertarCliente(Cliente cliente)
         {
             try
             {
@@ -57,9 +57,9 @@ namespace GimasioMDI.Repositorio
             }
         }
         // Buscar Clientes;
-        public ClienteModel BuscarCliente(int id)
+        public Cliente BuscarCliente(int id)
         {
-            ClienteModel cliente = null;
+            Cliente cliente = null;
 
             using (SqlConnection conn = new SqlConnection(connection))
             {
@@ -80,7 +80,7 @@ namespace GimasioMDI.Repositorio
                             {
                                 if (reader.Read())
                                 {
-                                    cliente = new ClienteModel
+                                    cliente = new Cliente
                                     {
                                         Identificacion = reader.GetInt32(0),
                                         Nombre = reader.GetString(1),
@@ -178,7 +178,7 @@ namespace GimasioMDI.Repositorio
         }
 
         // Actualizar Clientes;
-        public void ActualizarCliente(ClienteModel cliente)
+        public void ActualizarCliente(Cliente cliente)
         {
             using (SqlConnection conn = new SqlConnection(connection))
             {

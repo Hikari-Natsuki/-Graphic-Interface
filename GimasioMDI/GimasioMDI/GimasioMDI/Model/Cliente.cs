@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GimasioMDI
 {
-    public class ClienteModel
+    public class Cliente
     {
         public int Identificacion { get; set; }
         public string Nombre { get; set; }

@@ -7,20 +7,22 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using GimasioMDI.Controlador;
 using GimasioMDI.Repositorio;
 
 namespace GimasioMDI
 {
     public partial class frmClientes : Form
     {
+        private ClienteController cliCont = new ClienteController();
         public frmClientes()
         {
             InitializeComponent();
-            dgvClientes.DataSource = cliRepo.ListarClientes();
+            dgvClientes.DataSource = cliCont.ListarClientes();
         }
-        private ClienteRepositorio cliRepo = new ClienteRepositorio();
-
         
+
+
         private void LimpiarCampos()
         {
             txtIdentificacion.Clear();
@@ -33,7 +35,7 @@ namespace GimasioMDI
         // Metodo para cargar el grafico 
         private void CargarGrafico()
         {
-            DataTable dt = cliRepo.EstadisticaCliente();
+            DataTable dt = cliCont.EstadisticaCliente();
             // Limbiar las series
             chtEstadistica.Series.Clear();
             // Crear una serie 
@@ -73,18 +75,21 @@ namespace GimasioMDI
                 MessageBox.Show("Por favor, complete todos los campos.");
                 return;
             }
-            ClienteModel cliente = new ClienteModel
+            Cliente cliente = new Cliente
             {
                 Identificacion = int.Parse(txtIdentificacion.Text),
                 Nombre = txtNombre.Text,
                 Apellido = txtApellido.Text,
                 Edad = int.Parse(txtEdad.Text)
             };
-            cliRepo.InsertarCliente(cliente);
+            cliCont.InsertarCliente(cliente);
             // Actualizar el DataGridView después de insertar un nuevo cliente
-            dgvClientes.DataSource = cliRepo.ListarClientes();
+            dgvClientes.DataSource = cliCont.ListarClientes();
+
+            // Limpiar
             LimpiarCampos();
 
+            // Botones
             btnActualizar.Enabled = false;
             btnEliminar.Enabled = false;
             btnGuardar.Enabled = true;
@@ -94,7 +99,7 @@ namespace GimasioMDI
         private void btnBuscar_Click(object sender, EventArgs e)
         {
             int id = int.Parse(txtIdentificacion.Text);
-            var cliente = cliRepo.BuscarCliente(id);
+            var cliente = cliCont.BuscarCliente(id);
             if(cliente != null)
             {
                 txtNombre.Text = cliente.Nombre;
@@ -105,6 +110,8 @@ namespace GimasioMDI
             {
                 MessageBox.Show("Cliente no encontrado");
             }
+
+            // Botones
             btnActualizar.Enabled = true;
             btnEliminar.Enabled = true;
             btnGuardar.Enabled = false;
@@ -113,19 +120,22 @@ namespace GimasioMDI
 
         private void btnActualizar_Click(object sender, EventArgs e)
         {
-            ClienteModel cliente = new ClienteModel
+            Cliente cliente = new Cliente
             {
                 Identificacion = int.Parse(txtIdentificacion.Text),
                 Nombre = txtNombre.Text,
                 Apellido = txtApellido.Text,
                 Edad = int.Parse(txtEdad.Text)
             };
-            cliRepo.ActualizarCliente(cliente);
+            cliCont.ActualizarCliente(cliente);
 
             // Actualizar el DataGridView después de actualizar un cliente
-            dgvClientes.DataSource = cliRepo.ListarClientes();
+            dgvClientes.DataSource = cliCont.ListarClientes();
+
+            // Limpiar
             LimpiarCampos();
 
+            // Botones
             btnActualizar.Enabled = false;
             btnEliminar.Enabled = false;
             btnGuardar.Enabled = true;
@@ -135,12 +145,24 @@ namespace GimasioMDI
         private void btnEliminar_Click(object sender, EventArgs e)
         {
             int id = int.Parse(txtIdentificacion.Text);
-            cliRepo.EliminarCliente(id);
+            DialogResult resultado = MessageBox.Show("¿Desea eliminar al cliente?", "Confirmación",
+                                        MessageBoxButtons.YesNo,
+                                        MessageBoxIcon.Question);
+            if (resultado == DialogResult.No) return;
+            else
+            {
+                
+                cliCont.EliminarCliente(id);
+            }
+                
 
             // Actualizar el DataGridView después de eliminar un cliente
-            dgvClientes.DataSource = cliRepo.ListarClientes();
+            dgvClientes.DataSource = cliCont.ListarClientes();
 
+            // Limpiar
             LimpiarCampos();
+
+            // Botones
             btnActualizar.Enabled = false;
             btnEliminar.Enabled = false;
             btnGuardar.Enabled = true;
@@ -182,12 +204,14 @@ namespace GimasioMDI
             btnGuardar.Enabled = false;
             btnBuscar.Enabled = true;
         }
+        // Filtro
         private void txtFiltro_TextChanged(object sender, EventArgs e)
         {
-            var clientes = cliRepo.Filtrar(txtFiltro.Text);
+            var clientes = cliCont.FiltrarCliente(txtFiltro.Text);
             dgvClientes.DataSource = clientes;
         }
 
+        // FUNCIONES ADICIONALES -----------------------------------------------------------------------------
         private void txtIdentificacion_KeyPress(object sender, KeyPressEventArgs e)
         {
             // Habilitar tecla enter
