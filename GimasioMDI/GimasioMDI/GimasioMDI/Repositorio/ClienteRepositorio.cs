@@ -14,39 +14,46 @@ namespace GimasioMDI.Repositorio
     {
         //Cadena de conexión a la base de datos, obtenida del archivo de configuración App.config
         private string connection = ConfigurationManager.ConnectionStrings["dbConnection"].ConnectionString;
-
+ 
         // Insertar Clientes;
         public void InsertarCliente(ClienteModel cliente)
         {
-            using (SqlConnection conn = new SqlConnection(connection))
+            try
             {
-                using (SqlCommand cmd = new SqlCommand("sp_InsertarClientes", conn))
+                using (SqlConnection conn = new SqlConnection(connection))
                 {
-                    cmd.CommandType = CommandType.StoredProcedure;
-                    cmd.Parameters.AddWithValue("@Id", cliente.Identificacion);
-                    cmd.Parameters.AddWithValue("@Nombre", cliente.Nombre);
-                    cmd.Parameters.AddWithValue("@Apellido", cliente.Apellido);
-                    cmd.Parameters.AddWithValue("@Edad", cliente.Edad);
-
-                    try
+                    using (SqlCommand cmd = new SqlCommand("sp_InsertarClientes", conn))
                     {
-                        // Abrir la conexión a la base de datos
-                        conn.Open();
-                        // Ejecutar el comando SQL para insertar el cliente
-                        cmd.ExecuteNonQuery();
+                        cmd.CommandType = CommandType.StoredProcedure;
+                        cmd.Parameters.AddWithValue("@Id", cliente.Identificacion);
+                        cmd.Parameters.AddWithValue("@Nombre", cliente.Nombre);
+                        cmd.Parameters.AddWithValue("@Apellido", cliente.Apellido);
+                        cmd.Parameters.AddWithValue("@Edad", cliente.Edad);
 
-                        // Mostrar un mensaje de éxito al usuario
-                        MessageBox.Show("Cliente Insertado Correctamente", "Información",
-                                        MessageBoxButtons.OK, MessageBoxIcon.Information);
-                    }
-                    catch (SqlException ex)
-                    {
-                        // Mostrar un mensaje de error al usuario en caso de que ocurra una excepción
-                        MessageBox.Show("Error al Insertar Cliente: " + ex.Message, "Error",
-                                        MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        try
+                        {
+                            // Abrir la conexión a la base de datos
+                            conn.Open();
+                            // Ejecutar el comando SQL para insertar el cliente
+                            cmd.ExecuteNonQuery();
 
+                            // Mostrar un mensaje de éxito al usuario
+                            MessageBox.Show("Cliente Insertado Correctamente", "Información",
+                                            MessageBoxButtons.OK, MessageBoxIcon.Information);
+                        }
+                        catch (SqlException ex)
+                        {
+                            // Mostrar un mensaje de error al usuario en caso de que ocurra una excepción
+                            MessageBox.Show("Error al conectar con la base de datos: " + ex.Message, "Error",
+                                            MessageBoxButtons.OK, MessageBoxIcon.Error);
+
+                        }
                     }
                 }
+            } catch (Exception ex) 
+            { 
+                MessageBox.Show("Error al Insertar Cliente: " + ex.Message, "Error",
+                                MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
         // Buscar Clientes;
@@ -56,41 +63,53 @@ namespace GimasioMDI.Repositorio
 
             using (SqlConnection conn = new SqlConnection(connection))
             {
-                using (SqlCommand cmd = new SqlCommand("sp_BuscarClientes", conn))
+                try
                 {
-                    cmd.CommandType = CommandType.StoredProcedure;
-                    cmd.Parameters.AddWithValue("@Id", cliente.Identificacion);
 
-                    try
+
+                    using (SqlCommand cmd = new SqlCommand("sp_BuscarClientes", conn))
                     {
-                        // Abrir la conexión a la base de datos
-                        conn.Open();
-                        using (SqlDataReader reader = cmd.ExecuteReader())
+                        cmd.CommandType = CommandType.StoredProcedure;
+                        cmd.Parameters.AddWithValue("@Id", id);
+
+                        try
                         {
-                            if (reader.Read())
+                            // Abrir la conexión a la base de datos
+                            conn.Open();
+                            using (SqlDataReader reader = cmd.ExecuteReader())
                             {
-                                cliente = new ClienteModel
+                                if (reader.Read())
                                 {
-                                    Identificacion = reader.GetInt32(0),
-                                    Nombre = reader.GetString(1),
-                                    Apellido = reader.GetString(2),
-                                    Edad = reader.GetInt32(3)
-                                };
-                            } else
-                            {
+                                    cliente = new ClienteModel
+                                    {
+                                        Identificacion = reader.GetInt32(0),
+                                        Nombre = reader.GetString(1),
+                                        Apellido = reader.GetString(2),
+                                        Edad = reader.GetInt32(3)
+                                    };
+                                } else
+                                {
                                     MessageBox.Show("Cliente no encontrado", "Información",
-                                        MessageBoxButtons.OK, MessageBoxIcon.Information);
+                                    MessageBoxButtons.OK, MessageBoxIcon.Information);
+                                }
+
                             }
-                            
                         }
+                        catch (SqlException ex)
+                        {
+                            // Mostrar un mensaje de error al usuario en caso de que ocurra una excepción
+                            MessageBox.Show("Error al buscar Cliente: " + ex.Message, "Error",
+                                            MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        }
+                        return cliente;
                     }
-                    catch (SqlException ex)
-                    {
-                        // Mostrar un mensaje de error al usuario en caso de que ocurra una excepción
-                        MessageBox.Show("Error al buscar Cliente: " + ex.Message, "Error",
-                                        MessageBoxButtons.OK, MessageBoxIcon.Error);
-                    }
-                    return cliente;
+                }
+                catch (SqlException ex)
+                {
+                    // Mostrar un mensaje de error al usuario en caso de que ocurra una excepción
+                    MessageBox.Show("Error al buscar Cliente: " + ex.Message, "Error",
+                                    MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return null;
                 }
             }
         }
@@ -98,36 +117,68 @@ namespace GimasioMDI.Repositorio
         public DataTable Filtrar(string texto)
         {
             DataTable tableCliente = new DataTable();
-
-            using (SqlConnection conn = new SqlConnection(connection))
+            try
             {
-                using (SqlCommand cmd = new SqlCommand("sp_FiltrarCliente", conn))
+                using (SqlConnection conn = new SqlConnection(connection))
                 {
-                    cmd.CommandType = CommandType.StoredProcedure;
-                    cmd.Parameters.AddWithValue("@Texto", texto);
-
-                    try
+                    using (SqlCommand cmd = new SqlCommand("sp_FiltrarCliente", conn))
                     {
+                        cmd.CommandType = CommandType.StoredProcedure;
+                        cmd.Parameters.AddWithValue("@Texto", texto);
+
+
                         // Abrir la conexión a la base de datos
                         conn.Open();
                         using (SqlDataReader reader = cmd.ExecuteReader())
                         {
                             tableCliente.Load(reader);
                         }
+
+
                     }
-                    catch (SqlException ex)
+                    return tableCliente;
+                }
+            }
+            catch (SqlException ex)
+            {
+                // Mostrar un mensaje de error al usuario en caso de que ocurra una excepción
+                MessageBox.Show("Error al filtrar Cliente: " + ex.Message, "Error",
+                                MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return null;
+            } 
+        }
+        // Listar clientes
+        public DataTable ListarClientes()
+        {
+            DataTable tableCliente = new DataTable();
+
+            try
+            {
+                using (SqlConnection conn = new SqlConnection(connection))
+                {
+                    using (SqlCommand cmd = new SqlCommand("sp_ObtenerClientes", conn))
                     {
-                        // Mostrar un mensaje de error al usuario en caso de que ocurra una excepción
-                        MessageBox.Show("Error al buscar Cliente: " + ex.Message, "Error",
-                                        MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        cmd.CommandType = CommandType.StoredProcedure;
+                        conn.Open();
+
+                        using (SqlDataReader reader = cmd.ExecuteReader())
+                        {
+                            tableCliente.Load(reader);
+                        }
                     }
                 }
-                return tableCliente;
             }
+            catch (SqlException ex)
+            {
+                MessageBox.Show($"Error de base de datos: {ex.Message}", "Error",
+                                MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+
+            return tableCliente;
         }
 
         // Actualizar Clientes;
-        public void Actualizar(ClienteModel cliente)
+        public void ActualizarCliente(ClienteModel cliente)
         {
             using (SqlConnection conn = new SqlConnection(connection))
             {
@@ -161,14 +212,14 @@ namespace GimasioMDI.Repositorio
         }
 
         // Eliminar Clientes;
-        public void EliminarCliente(ClienteModel cliente)
+        public void EliminarCliente(int id)
         {
             using (SqlConnection conn = new SqlConnection(connection))
             {
                 using (SqlCommand cmd = new SqlCommand("sp_EliminarClientes", conn))
                 {
                     cmd.CommandType = CommandType.StoredProcedure;
-                    cmd.Parameters.AddWithValue("@Id", cliente.Identificacion);
+                    cmd.Parameters.AddWithValue("@Id", id);
                     try
                     {
                         // Abrir la conexión a la base de datos
@@ -187,6 +238,36 @@ namespace GimasioMDI.Repositorio
                                         MessageBoxButtons.OK, MessageBoxIcon.Error);
                     }
                 }
+            }
+        }
+        // Método para la estadistica de clientes por edad
+        public DataTable EstadisticaCliente()
+        {
+            DataTable tableCliente = new DataTable();
+
+            using (SqlConnection conn = new SqlConnection(connection))
+            {
+                using (SqlCommand cmd = new SqlCommand("sp_EstadisticaClientes", conn))
+                {
+                    cmd.CommandType = CommandType.StoredProcedure;
+
+                    try
+                    {
+                        // Abrir la conexión a la base de datos
+                        conn.Open();
+                        using (SqlDataReader reader = cmd.ExecuteReader())
+                        {
+                            tableCliente.Load(reader);
+                        }
+                    }
+                    catch (SqlException ex)
+                    {
+                        // Mostrar un mensaje de error al usuario en caso de que ocurra una excepción
+                        MessageBox.Show("Error al buscar Cliente: " + ex.Message, "Error",
+                                        MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    }
+                }
+                return tableCliente;
             }
         }
     }

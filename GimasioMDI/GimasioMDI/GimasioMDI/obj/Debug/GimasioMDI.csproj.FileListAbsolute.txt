@@ -9,3 +9,15 @@ C:\Users\Usuario\source\repos\GimasioMDI\GimasioMDI\obj\Debug\GimasioMDI.csproj.
 C:\Users\Usuario\source\repos\GimasioMDI\GimasioMDI\obj\Debug\GimasioMDI.exe
 C:\Users\Usuario\source\repos\GimasioMDI\GimasioMDI\obj\Debug\GimasioMDI.pdb
 C:\Users\Usuario\source\repos\GimasioMDI\GimasioMDI\obj\Debug\GimasioMDI.frmClientes.resources
+C:\Users\migpl\Downloads\PASCUAL BRAVO\Semestre IV\Herramientas de programación II\Interfaz Gráfica\GimasioMDI\GimasioMDI\GimasioMDI\bin\Debug\GimasioMDI.exe.config
+C:\Users\migpl\Downloads\PASCUAL BRAVO\Semestre IV\Herramientas de programación II\Interfaz Gráfica\GimasioMDI\GimasioMDI\GimasioMDI\bin\Debug\GimasioMDI.exe
+C:\Users\migpl\Downloads\PASCUAL BRAVO\Semestre IV\Herramientas de programación II\Interfaz Gráfica\GimasioMDI\GimasioMDI\GimasioMDI\bin\Debug\GimasioMDI.pdb
+C:\Users\migpl\Downloads\PASCUAL BRAVO\Semestre IV\Herramientas de programación II\Interfaz Gráfica\GimasioMDI\GimasioMDI\GimasioMDI\obj\Debug\GimasioMDI.csproj.AssemblyReference.cache
+C:\Users\migpl\Downloads\PASCUAL BRAVO\Semestre IV\Herramientas de programación II\Interfaz Gráfica\GimasioMDI\GimasioMDI\GimasioMDI\obj\Debug\GimasioMDI.exe.config
+C:\Users\migpl\Downloads\PASCUAL BRAVO\Semestre IV\Herramientas de programación II\Interfaz Gráfica\GimasioMDI\GimasioMDI\GimasioMDI\obj\Debug\GimasioMDI.frmPrincipal.resources
+C:\Users\migpl\Downloads\PASCUAL BRAVO\Semestre IV\Herramientas de programación II\Interfaz Gráfica\GimasioMDI\GimasioMDI\GimasioMDI\obj\Debug\GimasioMDI.frmClientes.resources
+C:\Users\migpl\Downloads\PASCUAL BRAVO\Semestre IV\Herramientas de programación II\Interfaz Gráfica\GimasioMDI\GimasioMDI\GimasioMDI\obj\Debug\GimasioMDI.Properties.Resources.resources
+C:\Users\migpl\Downloads\PASCUAL BRAVO\Semestre IV\Herramientas de programación II\Interfaz Gráfica\GimasioMDI\GimasioMDI\GimasioMDI\obj\Debug\GimasioMDI.csproj.GenerateResource.cache
+C:\Users\migpl\Downloads\PASCUAL BRAVO\Semestre IV\Herramientas de programación II\Interfaz Gráfica\GimasioMDI\GimasioMDI\GimasioMDI\obj\Debug\GimasioMDI.csproj.CoreCompileInputs.cache
+C:\Users\migpl\Downloads\PASCUAL BRAVO\Semestre IV\Herramientas de programación II\Interfaz Gráfica\GimasioMDI\GimasioMDI\GimasioMDI\obj\Debug\GimasioMDI.exe
+C:\Users\migpl\Downloads\PASCUAL BRAVO\Semestre IV\Herramientas de programación II\Interfaz Gráfica\GimasioMDI\GimasioMDI\GimasioMDI\obj\Debug\GimasioMDI.pdb

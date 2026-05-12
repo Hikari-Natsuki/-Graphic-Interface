@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\ServiPlus\\ServiPlus\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC0DFAA5-9A8F-4A4F-B418-2F252BB202C5}|ServiPlus\\ServiPlus.csproj|c:\\users\\migpl\\downloads\\pascual bravo\\semestre iv\\herramientas de programaci\u00F3n ii\\interfaz gr\u00E1fica\\serviplus\\serviplus\\serviplus\\controlesusuarios\\uc_adquisiciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BC0DFAA5-9A8F-4A4F-B418-2F252BB202C5}|ServiPlus\\ServiPlus.csproj|solutionrelative:serviplus\\controlesusuarios\\uc_adquisiciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC0DFAA5-9A8F-4A4F-B418-2F252BB202C5}|ServiPlus\\ServiPlus.csproj|C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\ServiPlus\\ServiPlus\\serviplus\\controlesusuarios\\uc_servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC0DFAA5-9A8F-4A4F-B418-2F252BB202C5}|ServiPlus\\ServiPlus.csproj|solutionrelative:serviplus\\controlesusuarios\\uc_servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC0DFAA5-9A8F-4A4F-B418-2F252BB202C5}|ServiPlus\\ServiPlus.csproj|c:\\users\\migpl\\downloads\\pascual bravo\\semestre iv\\herramientas de programaci\u00F3n ii\\interfaz gr\u00E1fica\\serviplus\\serviplus\\serviplus\\controlesusuarios\\uc_servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BC0DFAA5-9A8F-4A4F-B418-2F252BB202C5}|ServiPlus\\ServiPlus.csproj|solutionrelative:serviplus\\controlesusuarios\\uc_servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC0DFAA5-9A8F-4A4F-B418-2F252BB202C5}|ServiPlus\\ServiPlus.csproj|C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\ServiPlus\\ServiPlus\\serviplus\\controlesusuarios\\uc_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC0DFAA5-9A8F-4A4F-B418-2F252BB202C5}|ServiPlus\\ServiPlus.csproj|solutionrelative:serviplus\\controlesusuarios\\uc_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC0DFAA5-9A8F-4A4F-B418-2F252BB202C5}|ServiPlus\\ServiPlus.csproj|C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\ServiPlus\\ServiPlus\\serviplus\\controlesusuarios\\uc_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BC0DFAA5-9A8F-4A4F-B418-2F252BB202C5}|ServiPlus\\ServiPlus.csproj|solutionrelative:serviplus\\controlesusuarios\\uc_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC0DFAA5-9A8F-4A4F-B418-2F252BB202C5}|ServiPlus\\ServiPlus.csproj|C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\ServiPlus\\ServiPlus\\serviplus\\modelo\\adquisicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC0DFAA5-9A8F-4A4F-B418-2F252BB202C5}|ServiPlus\\ServiPlus.csproj|solutionrelative:serviplus\\modelo\\adquisicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC0DFAA5-9A8F-4A4F-B418-2F252BB202C5}|ServiPlus\\ServiPlus.csproj|C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\ServiPlus\\ServiPlus\\serviplus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0DFAA5-9A8F-4A4F-B418-2F252BB202C5}|ServiPlus\\ServiPlus.csproj|solutionrelative:serviplus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC0DFAA5-9A8F-4A4F-B418-2F252BB202C5}|ServiPlus\\ServiPlus.csproj|C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\ServiPlus\\ServiPlus\\serviplus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BC0DFAA5-9A8F-4A4F-B418-2F252BB202C5}|ServiPlus\\ServiPlus.csproj|solutionrelative:serviplus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC0DFAA5-9A8F-4A4F-B418-2F252BB202C5}|ServiPlus\\ServiPlus.csproj|C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\ServiPlus\\ServiPlus\\serviplus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC0DFAA5-9A8F-4A4F-B418-2F252BB202C5}|ServiPlus\\ServiPlus.csproj|solutionrelative:serviplus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC0DFAA5-9A8F-4A4F-B418-2F252BB202C5}|ServiPlus\\ServiPlus.csproj|C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\ServiPlus\\ServiPlus\\serviplus\\modelo\\adquisicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0DFAA5-9A8F-4A4F-B418-2F252BB202C5}|ServiPlus\\ServiPlus.csproj|solutionrelative:serviplus\\modelo\\adquisicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0DFAA5-9A8F-4A4F-B418-2F252BB202C5}|ServiPlus\\ServiPlus.csproj|C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\ServiPlus\\ServiPlus\\serviplus\\controlesusuarios\\uc_servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0DFAA5-9A8F-4A4F-B418-2F252BB202C5}|ServiPlus\\ServiPlus.csproj|solutionrelative:serviplus\\controlesusuarios\\uc_servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0DFAA5-9A8F-4A4F-B418-2F252BB202C5}|ServiPlus\\ServiPlus.csproj|C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\ServiPlus\\ServiPlus\\serviplus\\controlesusuarios\\uc_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0DFAA5-9A8F-4A4F-B418-2F252BB202C5}|ServiPlus\\ServiPlus.csproj|solutionrelative:serviplus\\controlesusuarios\\uc_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0DFAA5-9A8F-4A4F-B418-2F252BB202C5}|ServiPlus\\ServiPlus.csproj|c:\\users\\migpl\\downloads\\pascual bravo\\semestre iv\\herramientas de programaci\u00F3n ii\\interfaz gr\u00E1fica\\serviplus\\serviplus\\serviplus\\controlesusuarios\\uc_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC0DFAA5-9A8F-4A4F-B418-2F252BB202C5}|ServiPlus\\ServiPlus.csproj|solutionrelative:serviplus\\controlesusuarios\\uc_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0DFAA5-9A8F-4A4F-B418-2F252BB202C5}|ServiPlus\\ServiPlus.csproj|C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\ServiPlus\\ServiPlus\\serviplus\\controlesusuarios\\uc_adquisiciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC0DFAA5-9A8F-4A4F-B418-2F252BB202C5}|ServiPlus\\ServiPlus.csproj|solutionrelative:serviplus\\controlesusuarios\\uc_adquisiciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0DFAA5-9A8F-4A4F-B418-2F252BB202C5}|ServiPlus\\ServiPlus.csproj|C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\ServiPlus\\ServiPlus\\serviplus\\controlesusuarios\\uc_servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC0DFAA5-9A8F-4A4F-B418-2F252BB202C5}|ServiPlus\\ServiPlus.csproj|solutionrelative:serviplus\\controlesusuarios\\uc_servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC0DFAA5-9A8F-4A4F-B418-2F252BB202C5}|ServiPlus\\ServiPlus.csproj|C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\ServiPlus\\ServiPlus\\serviplus\\data\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,35 +54,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UC_Servicios.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\ServiPlus\\ServiPlus\\ServiPlus\\ControlesUsuarios\\UC_Servicios.cs",
-              "RelativeDocumentMoniker": "ServiPlus\\ControlesUsuarios\\UC_Servicios.cs",
-              "ToolTip": "C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\ServiPlus\\ServiPlus\\ServiPlus\\ControlesUsuarios\\UC_Servicios.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ServiPlus\\ControlesUsuarios\\UC_Servicios.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T01:22:29.357Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UC_Adquisiciones.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\ServiPlus\\ServiPlus\\ServiPlus\\ControlesUsuarios\\UC_Adquisiciones.cs",
-              "RelativeDocumentMoniker": "ServiPlus\\ControlesUsuarios\\UC_Adquisiciones.cs",
-              "ToolTip": "C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\ServiPlus\\ServiPlus\\ServiPlus\\ControlesUsuarios\\UC_Adquisiciones.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ServiPlus\\ControlesUsuarios\\UC_Adquisiciones.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T01:14:50.429Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UC_Clientes.cs",
               "DocumentMoniker": "C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\ServiPlus\\ServiPlus\\ServiPlus\\ControlesUsuarios\\UC_Clientes.cs",
               "RelativeDocumentMoniker": "ServiPlus\\ControlesUsuarios\\UC_Clientes.cs",
@@ -107,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Adquisicion.cs",
               "DocumentMoniker": "C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\ServiPlus\\ServiPlus\\ServiPlus\\Modelo\\Adquisicion.cs",
               "RelativeDocumentMoniker": "ServiPlus\\Modelo\\Adquisicion.cs",
@@ -120,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "UC_Clientes.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\ServiPlus\\ServiPlus\\ServiPlus\\ControlesUsuarios\\UC_Clientes.cs",
               "RelativeDocumentMoniker": "ServiPlus\\ControlesUsuarios\\UC_Clientes.cs",
@@ -144,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "UC_Servicios.cs",
               "DocumentMoniker": "C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\ServiPlus\\ServiPlus\\ServiPlus\\ControlesUsuarios\\UC_Servicios.cs",
               "RelativeDocumentMoniker": "ServiPlus\\ControlesUsuarios\\UC_Servicios.cs",
@@ -157,6 +133,54 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\ServiPlus\\ServiPlus\\ServiPlus\\Form1.cs",
+              "RelativeDocumentMoniker": "ServiPlus\\Form1.cs",
+              "ToolTip": "C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\ServiPlus\\ServiPlus\\ServiPlus\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ServiPlus\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T21:10:44.819Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\ServiPlus\\ServiPlus\\ServiPlus\\Form1.cs",
+              "RelativeDocumentMoniker": "ServiPlus\\Form1.cs",
+              "ToolTip": "C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\ServiPlus\\ServiPlus\\ServiPlus\\Form1.cs",
+              "RelativeToolTip": "ServiPlus\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T23:52:28.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UC_Adquisiciones.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\ServiPlus\\ServiPlus\\ServiPlus\\ControlesUsuarios\\UC_Adquisiciones.cs",
+              "RelativeDocumentMoniker": "ServiPlus\\ControlesUsuarios\\UC_Adquisiciones.cs",
+              "ToolTip": "C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\ServiPlus\\ServiPlus\\ServiPlus\\ControlesUsuarios\\UC_Adquisiciones.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ServiPlus\\ControlesUsuarios\\UC_Adquisiciones.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T01:14:50.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UC_Servicios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\ServiPlus\\ServiPlus\\ServiPlus\\ControlesUsuarios\\UC_Servicios.cs",
+              "RelativeDocumentMoniker": "ServiPlus\\ControlesUsuarios\\UC_Servicios.cs",
+              "ToolTip": "C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\ServiPlus\\ServiPlus\\ServiPlus\\ControlesUsuarios\\UC_Servicios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ServiPlus\\ControlesUsuarios\\UC_Servicios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T01:22:29.357Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Servicio.cs",
               "DocumentMoniker": "C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\ServiPlus\\ServiPlus\\ServiPlus\\Modelo\\Servicio.cs",
@@ -166,31 +190,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-12T22:02:36.438Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\ServiPlus\\ServiPlus\\ServiPlus\\Form1.cs",
-              "RelativeDocumentMoniker": "ServiPlus\\Form1.cs",
-              "ToolTip": "C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\ServiPlus\\ServiPlus\\ServiPlus\\Form1.cs",
-              "RelativeToolTip": "ServiPlus\\Form1.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAewCYAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T23:52:28.017Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\ServiPlus\\ServiPlus\\ServiPlus\\Form1.cs",
-              "RelativeDocumentMoniker": "ServiPlus\\Form1.cs",
-              "ToolTip": "C:\\Users\\migpl\\Downloads\\PASCUAL BRAVO\\Semestre IV\\Herramientas de programaci\u00F3n II\\Interfaz Gr\u00E1fica\\ServiPlus\\ServiPlus\\ServiPlus\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ServiPlus\\Form1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T21:10:44.819Z",
-              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

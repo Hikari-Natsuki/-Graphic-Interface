@@ -60,6 +60,25 @@ AS
    END;
 GO
 
+-- OBTENER
+CREATE OR ALTER PROCEDURE sp_ObtenerClientes
+AS
+BEGIN
+    SELECT * FROM Clientes
+END
+GO
+
+-- Estadistica
+CREATE OR ALTER PROCEDURE sp_EstadisticaClientes
+AS
+BEGIN 
+	SELECT Nombre, Edad
+	FROM Clientes
+	ORDER BY Apellido
+END
+GO
+
+-- ELIMINAAR
 USE master;
 GO
 
